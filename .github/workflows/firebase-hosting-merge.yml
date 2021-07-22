@@ -18,3 +18,14 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TESTAN1_9858D }}'
           channelId: live
           projectId: testan1-9858d
+
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyD8sBiSS4zh4ePq0fijj9GSgYeFVV8jDas",
+  authDomain: "testan1-9858d.firebaseapp.com",
+  projectId: "testan1-9858d",
+  storageBucket: "testan1-9858d.appspot.com",
+  messagingSenderId: "506899387126",
+  appId: "1:506899387126:web:06a02977a254dc0f3a12d7",
+  measurementId: "G-JKE0Z08HD0"
+};
